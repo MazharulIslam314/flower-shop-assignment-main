@@ -49,13 +49,104 @@ height: 850px;
 background: rgba(229, 84, 115, 0.10);
 display: flex;
 }
-.ful{
+.mful{
+    
+}
+
+.full{
     display: flex;
     color: #FFFFFF;
     width: 1920px;
 height: 538px;
 
 }
+.feature{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+    margin: 178px 764px 0px 764px;
+}
+.feature-text{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+    margin: 24px 663px 48px 663px;
+}
+.tree{
+    display: flex;
+}
+nav li {
+    list-style: none;
+}
+.t{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin: 32px 307px 128px 381px;
+}
+.tr{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin: 32px 307px 128px 0px;
+}
+.tre{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin: 32px 381px 128px 0px;
+}
+
+
+
+
+.ful-one{
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+margin: 0px 24px 195px 240px ;
+
+}
+.ful-two{
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+margin: 0px 24px 195px 0px;
+
+
+}
+
+.ful-three{
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+
+margin: 0px 240px 195px 0px;
+}
+
 
 
 
@@ -67,8 +158,30 @@ border-radius: 8px;
 background: rgba(39, 39, 39, 0.05);
 display: flex
 ;
-margin: ;
+margin: 128px 240px;
 }
+.delivery-man{
+    width: 88px;
+ height: 88px
+ 
+}
+.delivery-ful{
+    width: 88px;
+height: 88px;
+
+}
+
+.delivery-call{
+    width: 88px;
+height: 88px;
+
+}
+
+
+
+
+
+
 .hot{
     width: 1920px;
 height: 850px;
