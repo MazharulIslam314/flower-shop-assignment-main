@@ -103,6 +103,52 @@ font-weight: 700;
 border-radius: 8px;
 
 }
+.instagram{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin: 128px 870px 0px 870px;
+}
+.instagram-text{
+    display: flex;
+width: 594px;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin: 24px 663px 48px 663px;
+color: #27272799;
+}
+.flowers{
+    display: flex;
+}
+.flower-one{
+    width: 342px;
+    height: 396px;
+    margin: 48px 24px 128px 240px;
+}
+
+.flower-two{
+    width: 342px;
+    height: 396px;
+    margin: 48px 24px 128px 0px;
+}
+.flower-three{width: 342px;
+    height: 396px;
+    margin: 48px 24px 128px 0px;
+}
+.flower-four{width: 342px;
+    height: 396px;
+    margin: 48px 240px 128px 0px;
+}
+
+
+
+
 
 
 
